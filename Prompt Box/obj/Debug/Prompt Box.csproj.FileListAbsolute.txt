@@ -1,0 +1,10 @@
+C:\Users\midij\source\repos\Prompt Box\Prompt Box\bin\Debug\Prompt Box.exe.config
+C:\Users\midij\source\repos\Prompt Box\Prompt Box\bin\Debug\Prompt Box.exe
+C:\Users\midij\source\repos\Prompt Box\Prompt Box\bin\Debug\Prompt Box.pdb
+C:\Users\midij\source\repos\Prompt Box\Prompt Box\obj\Debug\Prompt Box.csproj.AssemblyReference.cache
+C:\Users\midij\source\repos\Prompt Box\Prompt Box\obj\Debug\Prompt_Box.Form1.resources
+C:\Users\midij\source\repos\Prompt Box\Prompt Box\obj\Debug\Prompt_Box.Properties.Resources.resources
+C:\Users\midij\source\repos\Prompt Box\Prompt Box\obj\Debug\Prompt Box.csproj.GenerateResource.cache
+C:\Users\midij\source\repos\Prompt Box\Prompt Box\obj\Debug\Prompt Box.csproj.CoreCompileInputs.cache
+C:\Users\midij\source\repos\Prompt Box\Prompt Box\obj\Debug\Prompt Box.exe
+C:\Users\midij\source\repos\Prompt Box\Prompt Box\obj\Debug\Prompt Box.pdb
